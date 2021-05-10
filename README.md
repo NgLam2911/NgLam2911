@@ -11,5 +11,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NgLamVN&repo=SmeltWands&show_owner=true&theme=great-gatsby)](https://github.com/NgLamVN/SmeltWands)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NgLamVN&repo=InvCraft&show_owner=true&theme=great-gatsby)](https://github.com/NgLamVN/InvCraft)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NgLamVN&repo=MineSweeperPE&show_owner=true&theme=great-gatsby)](https://github.com/NgLamVN/MineSweeperPE)
 <!--
 **NgLamVN/NgLamVN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
