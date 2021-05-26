@@ -7,7 +7,7 @@
     "jobs" => "Noob Developer",
     "languages" => ["PHP", "C++", "Python"],
     "tools" => ["PHPStorm", "VisualStudio", "VisualStudioCode"]
-  ]
+  ];
 ```
 ---
 ![NgLamVN's github stats](https://github-readme-stats.vercel.app/api/?username=NgLamVN&show_icons=true&hide_border=true&theme=great-gatsby&count_private=true)
