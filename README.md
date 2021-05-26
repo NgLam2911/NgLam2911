@@ -1,5 +1,14 @@
 ### Hi, I am NgLamVN 👋
-* Just a Noob PHP, C++ Developer ._.
+```php
+  public const NgLamVN = [
+    "fullName" => "Look at my info",
+    "age" => "Unknown",
+    "country" => "Viet Nam",
+    "jobs" => "Noob Developer",
+    "languages" => ["PHP", "C++", "Python"],
+    "tools" => ["PHPStorm", "VisualStudio", "VisualStudioCode"]
+  ]
+```
 ---
 ![NgLamVN's github stats](https://github-readme-stats.vercel.app/api/?username=NgLamVN&show_icons=true&hide_border=true&theme=great-gatsby&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NgLamVN&show_icons=true&hide_border=true&theme=great-gatsby&count_private=true)](https://github.com/NgLamVN)
