@@ -6,7 +6,8 @@
     "country" => "Viet Nam",
     "jobs" => "Noob Developer",
     "languages" => ["PHP", "C++", "Python"],
-    "tools" => ["PHPStorm", "VisualStudio", "VisualStudioCode"]
+    "IDE_used" => ["PHPStorm", "VisualStudio", "VisualStudioCode"],
+    "what ?" => ["how ?", "really ?", "sure ?", "okay !"]
   ];
 ```
 ---
