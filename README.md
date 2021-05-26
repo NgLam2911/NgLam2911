@@ -1,12 +1,11 @@
 ### Hi, I am NgLamVN 👋
 ```php
   public const NgLamVN = [
-    "fullName" => "Look at my info",
+    "fullName" => "Look at my info //but it still not my full name :)//",
     "age" => "Unknown",
     "country" => "Viet Nam",
     "jobs" => "Noob Developer",
     "languages" => ["PHP", "C++", "Python"],
-    "IDE_used" => ["PHPStorm", "VisualStudio", "VisualStudioCode"],
     "what ?" => ["how ?", "really ?", "sure ?", "okay !"]
   ];
 ```
