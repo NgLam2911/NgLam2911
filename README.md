@@ -9,6 +9,7 @@
     "what ?" => ["how ?", "really ?", "sure ?", "okay !"]
   ];
 ```
+![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
 ---
 ![NgLamVN's github stats](https://github-readme-stats.vercel.app/api/?username=NgLamVN&show_icons=true&hide_border=true&theme=algolia&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NgLamVN&show_icons=true&hide_border=true&theme=algolia&count_private=true)](https://github.com/NgLamVN)
