@@ -15,6 +15,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NgLamVN&show_icons=true&hide_border=true&theme=algolia&count_private=true)](https://github.com/NgLamVN)
 
 ---
+> *WARNING: HARMFUL TO YOUR EYES.*
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NgLamVN&repo=AutoSell&show_owner=true&border_color=fff&icon_color=fff&bg_color=40,ff0000,ffa600&title_color=fff&text_color=fff)](https://github.com/NgLamVN/AutoSell)
 
