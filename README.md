@@ -5,7 +5,7 @@
     "age" => "Unknown",
     "country" => "Viet Nam",
     "jobs" => "Noob Developer",
-    "languages" => ["PHP", "C++", "Python", "Java"], //I am very lazy to learn other language :>
+    "languages" => ["PHP", "C/C++", "Python", "Java", "JS/TS"], //I am very lazy to learn other language :>
     "what ?" => ["how ?", "really ?", "sure ?", "okay !"]
   ];
 ```
