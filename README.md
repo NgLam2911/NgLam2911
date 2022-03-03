@@ -1,4 +1,5 @@
 ### Hi, I am NgLamVN 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F71E&center=true&vCenter=true&lines=Just+a+normal+guy+but+very+lazy;still+hope+for+better+future.;Who+know+him%3F%3F%3F)](https://git.io/typing-svg)
 ```php
   public const NgLamVN = [
     "fullName" => "Look at my info //but it still not my full name :)//",
