@@ -11,4 +11,4 @@
 ![](https://komarev.com/ghpvc/?username=NgLamVN&color=blue)
 ---
 ![NgLamVN's github stats](https://github-readme-stats.vercel.app/api/?username=NgLamVN&show_icons=true&hide_border=true&theme=algolia&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NgLamVN&show_icons=true&hide_border=true&theme=algolia&count_private=true)](https://github.com/NgLamVN)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NgLamVN&layout=compact&show_icons=true&hide_border=true&theme=algolia&count_private=true)](https://github.com/NgLamVN)
