@@ -1,4 +1,4 @@
-### Hi, I am NgLamVN 👋
+### Hi, I am NgLam2911 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F71E&center=true&vCenter=true&lines=Just+a+normal+guy+but+very+lazy;still+hope+for+better+future.;Who+know+him%3F%3F%3F)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=NgLam2911&color=blue)
